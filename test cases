@@ -1,0 +1,78 @@
+Use cases 
+
+----------------------------------------------------
+Please Select One OPtion ::: 
+1] Create UP	2]Recover Password 
+----------------------------------------------------
+1
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Inside Username Creation
+bustling_nut_3247
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Please Choose an Encryption Method For your Password!
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+1::XOR	2::RSA	3::Shuffle
+4::RSA	5::RSA	6::RSA
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+1
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++XOR ENCRYTION++++
+Your Key is [K] PLEASE REMEMBER IT FOR PASSWORD RECOVERY
+PAssword:: )>8?'"%,%>?xy|
+----------------------------------------------------
+Please Select One OPtion ::: 
+1] Create UP	2]Recover Password 
+----------------------------------------------------
+2
+----------------------------------------------------
+PAssword Recovery
+----------------------------------------------------
+Please Enter Your Key 	:: K
+Please Enter Your Username 	:: bustling_nut_3247
+Please Choose your Chosen Encryption Method!
+=======================================================
+1::XOR	2::RSA	3::Shuffle
+4::RSA	5::RSA	6::RSA
+1
+Your Password is :: )>8?'"%,%>?xy|
+----------------------------------------------------
+Please Select One OPtion ::: 
+1] Create UP	2]Recover Password 
+----------------------------------------------------
+1
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Inside Username Creation
+kosher_eagle_7100
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Please Choose an Encryption Method For your Password!
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+1::XOR	2::RSA	3::Shuffle
+4::RSA	5::RSA	6::RSA
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+1
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++XOR ENCRYTION++++
+Your Key is [H] PLEASE REMEMBER IT FOR PASSWORD RECOVERY
+PAssword:: #'; -:-)/$-yxx
+----------------------------------------------------
+Please Select One OPtion ::: 
+1] Create UP	2]Recover Password 
+----------------------------------------------------
+2
+----------------------------------------------------
+PAssword Recovery
+----------------------------------------------------
+Please Enter Your Key 	:: K
+Please Enter Your Username 	:: bustling_nut_3247
+Please Choose your Chosen Encryption Method!
+=======================================================
+1::XOR	2::RSA	3::Shuffle
+4::RSA	5::RSA	6::RSA
+1
+Your Password is :: )>8?'"%,%>?xy|
+----------------------------------------------------
+Please Select One OPtion ::: 
+1] Create UP	2]Recover Password 
+----------------------------------------------------
+
+
